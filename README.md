@@ -1,1 +1,1 @@
-# cppgod17.github.io
+# The Cursed Isle site under construction :)
