@@ -1,1 +1,1 @@
-# The Cursed Isle site under construction :)
+# For any questions, please write to dreamdustgames@gmail.com
