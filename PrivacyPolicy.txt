@@ -1,6 +1,6 @@
 **Privacy Policy**
 
-Dream Dinosaur Games built the The Cursed Isle(Online Dinosaur Game) app as a Free app. This SERVICE is provided by Dream Dust Games at no cost and is intended for use as is.
+Dream Dinosaur Games built the The Cursed Dinosaur Isle(Online Dinosaur Game) app as a Free app. This SERVICE is provided by Dream Dust Games at no cost and is intended for use as is.
 
 This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service.
 
@@ -30,7 +30,7 @@ Link to the privacy policy of third-party service providers used by the app
 *   [Mintegral](https://www.mintegral.com/en/privacy/)
 *   [Pangle](https://www.pangleglobal.com/privacy/enduser-en)
 *   [Fyber](https://www.digitalturbine.com/fyber-services-privacy-statement/)
-*   [Clever Ads Solutions](https://cleveradssolutions.com/PrivacyPolicyCAS.html#:~:text=Clever%20Ads%20Solutions%20requires%20our,Solutions%20provided%20it%20to%20them.)
+*   [Clever Ads Solutions](https://cas.ai/privacy-policy-3/)
 *   [IronSource](https://developers.is.com/ironsource-mobile/air/ironsource-mobile-privacy-policy/#step-3)
 *   [InMobi](https://www.inmobi.com/privacy-policy)
 *   [ChartBoost](https://www.chartboost.com/legal/privacy-policy/)
@@ -59,6 +59,10 @@ I want to inform users of this Service that these third parties have access to t
 **Security**
 
 I value your trust in providing us your Personal Information, thus we are striving to use commercially acceptable means of protecting it. But remember that no method of transmission over the internet, or method of electronic storage is 100% secure and reliable, and I cannot guarantee its absolute security.
+
+**Other**
+
+By downloading and using this application, you agree that your account may be blocked for violating the rules of the application.
 
 **Links to Other Sites**
 
