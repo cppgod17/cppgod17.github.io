@@ -4373,3 +4373,6 @@ zmaticoo.com, 5135785, RESELLER
 bidscube.com, 4000262, DIRECT, 6ecc87a1e0269657
 bidinfluence.com,500759 DIRECT
 improvedigital.com , 2418, DIRECT
+bidscube.com, 4000262, DIRECT, 6ecc87a1e0269657
+bidinfluence.com,500759 DIRECT
+improvedigital.com , 2418, DIRECT
