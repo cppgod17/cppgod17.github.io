@@ -23,21 +23,21 @@ Link to the privacy policy of third-party service providers used by the app
 *   [Facebook](https://www.facebook.com/about/privacy/update/printable)
 *   [Unity](https://unity3d.com/legal/privacy-policy)
 *   [AppLovin](https://www.applovin.com/privacy/)
-*   [Vungle](https://vungle.com/privacy/)
+*   [Litoff](https://liftoff.ai/privacy-policy/)
 *   [AdColony](https://www.adcolony.com/privacy-policy/)
 *   [Yandex](https://yandex.com/legal/termsofservice/)
 *   [MyTarget](https://legal.my.com/us/mytarget/privacy/)
 *   [Mintegral](https://www.mintegral.com/en/privacy/)
 *   [Pangle](https://www.pangleglobal.com/privacy/enduser-en)
 *   [Fyber](https://www.digitalturbine.com/fyber-services-privacy-statement/)
-*   [Clever Ads Solutions](https://cas.ai/privacy-policy-3/)
+*   [Clever Ads Solutions](https://cleveradssolutions.com/PrivacyPolicyCAS.html#:~:text=Clever%20Ads%20Solutions%20requires%20our,Solutions%20provided%20it%20to%20them.)
 *   [IronSource](https://developers.is.com/ironsource-mobile/air/ironsource-mobile-privacy-policy/#step-3)
 *   [InMobi](https://www.inmobi.com/privacy-policy)
 *   [ChartBoost](https://www.chartboost.com/legal/privacy-policy/)
 
 **Log Data**
 
-I want to inform you that whenever you use my Service, in a case of an error in the app I collect data and information (through third-party products) on your phone called Log Data. This Log Data may include information such as your device Internet Protocol (“IP”) address, device name, operating system version, the configuration of the app when utilizing my Service, the time and date of your use of the Service, and other statistics.
+We want to inform you that whenever you use my Service, in a case of an error in the app We collect data and information (through third-party products) on your phone called Log Data. This Log Data may include information such as your device Internet Protocol (“IP”) address, device name, operating system version, the configuration of the app when utilizing my Service, the time and date of your use of the Service, and other statistics.
 
 **Cookies**
 
@@ -47,36 +47,43 @@ This Service does not use these “cookies” explicitly. However, the app may u
 
 **Service Providers**
 
-I may employ third-party companies and individuals due to the following reasons:
+We may employ third-party companies and individuals due to the following reasons:
 
 *   To facilitate our Service;
 *   To provide the Service on our behalf;
 *   To perform Service-related services; or
 *   To assist us in analyzing how our Service is used.
 
-I want to inform users of this Service that these third parties have access to their Personal Information. The reason is to perform the tasks assigned to them on our behalf. However, they are obligated not to disclose or use the information for any other purpose.
+We want to inform users of this Service that these third parties have access to their Personal Information. The reason is to perform the tasks assigned to them on our behalf. However, they are obligated not to disclose or use the information for any other purpose.
 
 **Security**
 
-I value your trust in providing us your Personal Information, thus we are striving to use commercially acceptable means of protecting it. But remember that no method of transmission over the internet, or method of electronic storage is 100% secure and reliable, and I cannot guarantee its absolute security.
-
-**Other**
-
-By downloading and using this application, you agree that your account may be blocked for violating the rules of the application.
+We value your trust in providing us your Personal Information, thus we are striving to use commercially acceptable means of protecting it. But remember that no method of transmission over the internet, or method of electronic storage is 100% secure and reliable, and we cannot guarantee its absolute security.
 
 **Links to Other Sites**
 
-This Service may contain links to other sites. If you click on a third-party link, you will be directed to that site. Note that these external sites are not operated by me. Therefore, I strongly advise you to review the Privacy Policy of these websites. I have no control over and assume no responsibility for the content, privacy policies, or practices of any third-party sites or services.
+This Service may contain links to other sites. If you click on a third-party link, you will be directed to that site. Note that these external sites are not operated by me. Therefore, We strongly advise you to review the Privacy Policy of these websites. We have no control over and assume no responsibility for the content, privacy policies, or practices of any third-party sites or services.
+
+**Account Suspension and Restrictions**
+
+We reserve the right to temporarily or permanently restrict access to the game or service, including account suspension, if any activity is detected that:
+
+*   violates the game rules;
+*   harms the community, other players, the project’s reputation, or the security of the service.
+
+Such activity may occur either within or outside the game client, if it is directly associated with your account.
+Details of internal investigations, including technical data and sources of information, are not disclosed.
+Sanctions are applied in strict accordance with the project rules and do not require notification of investigation details.
 
 **Children’s Privacy**
 
-These Services do not address anyone under the age of 13. I do not knowingly collect personally identifiable information from children under 13 years of age. In the case I discover that a child under 13 has provided me with personal information, I immediately delete this from our servers. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact me so that I will be able to do the necessary actions.
+These Services do not address anyone under the age of 13. We do not knowingly collect personally identifiable information from children under 13 years of age. In the case we discover that a child under 13 has provided me with personal information, We immediately delete this from our servers. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact me so that I will be able to do the necessary actions.
 
 **Changes to This Privacy Policy**
 
-I may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. I will notify you of any changes by posting the new Privacy Policy on this page.
+We may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. We will notify you of any changes by posting the new Privacy Policy on this page.
 
-This policy is effective as of 2021-12-15
+This policy is effective as of 2023-12-15
 
 **Contact Us**
 
