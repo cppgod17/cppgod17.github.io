@@ -1,0 +1,87 @@
+USER AGREEMENT (TERMS OF SERVICE)
+for The Cursed Dinosaur Isle
+
+Last updated: December 16, 2025
+
+1. ACCEPTANCE OF AGREEMENT
+1.1. This User Agreement (hereinafter referred to as the "Agreement") governs the relationship between NIMPHA LTD, registered at MONASTIRAKI COMPLEX, Flat 25, Naousis Paphos, 8047 Cyprus (hereinafter referred to as the "Administration," "We," or "Our"), and any individual (hereinafter referred to as the "User" or "You") who installs, accesses, registers, or uses the mobile application and related online services of The Cursed Dinosaur Isle (hereinafter referred to as the "Application," "Service," or "Game").
+1.2. By performing any of the actions specified in paragraph 1.1, you confirm that:
+1.2.1. You have read, fully understood, and unconditionally accept all the terms of this Agreement;
+1.2.2. You also accept the terms of the Privacy Policy, available at: https://github.com/cppgod17/cppgod17.github.io/blob/main/PrivacyPolicy.txt/;
+1.2.3. You have full legal capacity to enter into such an agreement in your country of residence.
+1.3. If you do not agree with any term of the Agreement, you must immediately cease all use of the Service and delete the App from your devices.
+1.4. If you are a minor in your jurisdiction, you confirm that you have received permission from your parents or legal guardians to use the Service, and they agree to be responsible for your actions.
+
+2. SERVICE AND LICENSE
+2.1. The Administration grants you a limited, non-transferable, revocable, non-exclusive, non-sublicensable license to install and use the Application on your personal mobile devices (iOS/Android) solely for personal, non-commercial purposes.
+2.2. All proprietary rights and intellectual property rights in the Service, including, but not limited to, the source code, object code, graphics, design, audiovisual content, storyline, characters, names, trademarks, and any other materials (collectively, the "Administration Content"), are and remain the exclusive property of the Administration or its licensors.
+2.3. You are prohibited from: copying, modifying, distributing, selling, leasing, transferring, reverse engineering (decompiling, disassembling), attempting to extract the source code, or creating derivative works based on the Service or the Administration Content.
+
+3. ACCOUNT AND SECURITY
+3.1. Access to advanced features (multiplayer, syncing between devices, and purchases) may require you to create an account.
+3.2. You are solely responsible for maintaining the confidentiality of your account login information (username and password). All actions performed using your account are considered your own.
+3.3. You are obligated to immediately notify the Administration of any unauthorized access or use of your account.
+
+4. MONETIZATION AND PAYMENTS
+4.1. The Service uses a hybrid monetization model:
+4.1.1. In-App Purchases (IAP): You can purchase virtual currency, items, bonuses, subscriptions, and other virtual digital goods (collectively, "Virtual Values") using real money.
+4.1.2. Advertising: The App may display advertising content from third parties.
+4.2. Payments are processed through the Apple App Store and Google Play Store payment systems or other payment systems. Accordingly, payments, refunds, subscription management, and billing issues are governed by the terms of use and policies of these platforms. The Administration does not store or process your bank card details or other payment information.
+4.3. All purchases of Virtual Values ​​are final. Virtual Values ​​have no material value, are not your property, and are not exchangeable for real money, refundable, or reimbursable, unless otherwise expressly provided by app store rules or mandatory applicable laws.
+4.4. The Administration reserves the right to change prices for Virtual Values, offer promotions, or modify the monetization model at any time.
+
+5. RULES OF CONDUCT AND MODERATION
+5.1. You undertake to use the Service in good faith, respecting other Users and the Administration. Any forms of toxic behavior, destructive actions, or creating a negative atmosphere are unacceptable.
+5.2. The following are strictly prohibited:
+5.2.1. Using cheats, macros, automated scripts, bots, modified game clients, or any other software designed to gain an unfair advantage.
+5.2.2. Exploiting errors, bugs, or vulnerabilities in the game (exploits) for personal gain or to harm other players and the Service. Discovered vulnerabilities must be immediately reported to the Administration.
+5.2.3. Trading, selling, purchasing, or transferring game accounts, in-game currency, or items for real money outside the official systems of the Service.
+5.2.4. Any form of fraud, including exchange fraud, phishing, or account theft.
+5.2.5. Posting, distributing, or linking to content that is illegal, threatening, defamatory, pornographic, or contains extremist materials.
+5.2.6. Promoting or instructing violence, suicide, or harm to oneself or others.
+5.2.7. Distributing viruses, Trojans, malicious links, or any code designed to disrupt the functionality of the Service, Users' devices, or data.
+5.2.8. Insults, threats (including death or violence), bullying, stalking (harassment), or harassment in any form—text, voice, nicknames, or avatars.
+5.2.9. Incitement to hatred (hate speech) or enmity based on race, nationality, religion, gender, sexual orientation, age, disability or any other personal or social characteristics.
+5.2.10. Creating and intentionally distributing negative content aimed at humiliating, discrediting, or deliberately worsening the gaming experience of a specific individual or group.
+5.2.11. Discussing politics, political ideologies, current political figures, parties, or events with political overtones. The Service is a strictly apolitical entertainment platform.
+5.2.12. Actively promoting, agitating, or engaging other users in political, religious, ethnic, or other heated social discussions unrelated to the gameplay.
+5.2.13. Spreading misinformation, fake news, or conspiracy theories that could cause panic or mass conflict within the community.
+5.2.14. Mass mailing of repetitive, meaningless messages (flooding), using caps lock, intrusive advertising, links to third-party resources, and multi-level marketing (MLM).
+5.2.15. Impersonating another user or an Administration employee, or creating fake accounts.
+5.2.16. Any actions aimed at intentionally destabilizing the Service: organizing attacks, cooperative use of exploits, or disrupting game events.
+5.3. Moderation and Consequences:
+5.3.1. The Administration monitors the Service but is not obligated to pre-moderate all user content.
+5.3.2. The Administration will determine whether a violation has occurred based on its internal criteria and evidence.
+5.3.3. The following measures may be applied to the User for violating the rules (at the discretion of the Administration, taking into account the severity of the violation): temporary restriction of access to social features, temporary account blocking, permanent (indefinite) account blocking without the possibility of recovery, complete cancellation of all game progress and Virtual Values ​​without compensation.
+5.3.4. The Administration is not obligated to engage in a discussion about the fact of a violation or provide detailed evidence if this could compromise the moderation methods or the security of the Service.
+
+6. ACCESS RESTRICTION (BAN)
+6.1. The Administration reserves the exclusive right, at its sole discretion, without prior notice or explanation, to restrict, suspend, or completely terminate the User's access to the Service (in whole or in part) in the event of any violation of this Agreement.
+6.2. In particular, when restricting access for reasons related to security, fraud prevention, or the protection of internal moderation algorithms or technical systems, the Administration is not obligated to provide the User with any detailed evidence, logs, internal data, or other information.
+6.3. Access restriction in the form of a permanent ban entails the permanent loss of access to the account and the cancellation of all Virtual Values ​​without any monetary or other compensation.
+
+7. DISCLAIMER OF WARRANTIES AND LIMITATION OF LIABILITY
+7.1. The Service is provided on an "AS IS" and "AS AVAILABLE" basis. The Administration expressly disclaims all warranties of any kind, express or implied, including, but not limited to, warranties of merchantability, fitness for a particular purpose, and non-infringement.
+7.2. The Administration does not warrant that the Service will operate uninterrupted, secure, or error-free, or that its use will achieve any specific results.
+7.3. To the maximum extent permitted by applicable law, the Administration, its affiliates, and partners will not be liable for:
+7.3.1. Indirect, incidental, special, punitive, or consequential damages, or lost profits;
+7.3.2. Damages caused by the actions or content of other users;
+7.3.3. Damages related to third-party advertising;
+7.3.4. Damages related to the loss of Virtual Values ​​due to account blocking;
+7.3.5. Any damages arising from force majeure.
+7.4. The Administration's aggregate liability to you for any claim related to the Agreement is in any event limited to the amount you actually paid to the Administration over the last six months of using the Service, or $30, whichever is less.
+
+8. PRIVACY
+8.1. The collection, storage, and processing of your personal data is carried out in accordance with a separate Privacy Policy, which forms an integral part of this Agreement. You consent to such processing.
+8.2. For users in the European Economic Area, we process your data in accordance with the General Data Protection Regulation (GDPR). For questions related to data protection, please contact: nimpha.ltd.apple@cas.ai.
+
+9. APPLICABLE LAW AND DISPUTE RESOLUTION
+9.1. This Agreement, its interpretation, and any disputes arising out of or in connection with it shall be governed by and construed in accordance with the laws of the Republic of Cyprus, without regard to conflict of law principles.
+9.2. Any disputes, disagreements, or claims arising out of or in connection with this Agreement shall be subject to the exclusive jurisdiction of the competent courts of Paphos, Republic of Cyprus.
+9.3. The Parties undertake to make every effort to resolve any dispute out of court. Any claim must be sent to the Administration in writing using the contact information specified in the Agreement. The period for pre-trial resolution is 30 (thirty) calendar days from the date of receipt of the claim.
+
+10. FINAL PROVISIONS
+10.1. The Administration reserves the right to unilaterally amend this Agreement. The updated version will be published in the Application or on the Administration website, indicating the new update date. Continued use of the Service after the changes take effect constitutes your full and unconditional acceptance of the new Agreement.
+10.2. If any provision of the Agreement is found invalid or unenforceable, the remaining provisions will remain in full force and effect.
+10.3. This Agreement constitutes the entire agreement between you and the Administration regarding the subject matter of the Agreement and supersedes all previous oral or written agreements.
+10.4. Administration contact information for legal notices and general inquiries: dreamdustgames@gmail.com.
