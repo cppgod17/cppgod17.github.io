@@ -1,7 +1,7 @@
 USER AGREEMENT (TERMS OF SERVICE)
 for The Cursed Dinosaur Isle
 
-Last updated: December 16, 2025
+Last updated: February 17, 2026
 
 1. ACCEPTANCE OF AGREEMENT
 1.1. This User Agreement (hereinafter referred to as the "Agreement") governs the relationship between NIMPHA LTD, registered at MONASTIRAKI COMPLEX, Flat 25, Naousis Paphos, 8047 Cyprus (hereinafter referred to as the "Administration," "We," or "Our"), and any individual (hereinafter referred to as the "User" or "You") who installs, accesses, registers, or uses the mobile application and related online services of The Cursed Dinosaur Isle (hereinafter referred to as the "Application," "Service," or "Game").
@@ -29,6 +29,13 @@ Last updated: December 16, 2025
 4.2. Payments are processed through the Apple App Store and Google Play Store payment systems or other payment systems. Accordingly, payments, refunds, subscription management, and billing issues are governed by the terms of use and policies of these platforms. The Administration does not store or process your bank card details or other payment information.
 4.3. All purchases of Virtual Values ​​are final. Virtual Values ​​have no material value, are not your property, and are not exchangeable for real money, refundable, or reimbursable, unless otherwise expressly provided by app store rules or mandatory applicable laws.
 4.4. The Administration reserves the right to change prices for Virtual Values, offer promotions, or modify the monetization model at any time.
+
+4.5. REFUNDS, CHARGEBACK AND REVERSAL VIRTUAL VALUES
+4.5.1. In the event of any refund, chargeback, payment dispute, or other payment reversal initiated by the User or processed by a payment platform, the Administration reserves the right to remove the corresponding Virtual Values, including but not limited to virtual currency, items, bonuses, dinosaurs, or other digital content credited to the User’s account as a result of such transaction.
+4.5.2. If such Virtual Values have already been spent, consumed, or otherwise used, the Administration may deduct equivalent Virtual Values from the User’s account. The User’s balance may become negative until the outstanding amount is fully offset.
+4.5.3. If the User’s account does not contain sufficient Virtual Values or in-game assets (including dinosaurs or other virtual items) to compensate for the reversed transaction, the Administration may, at its sole discretion, restrict, suspend, or permanently terminate access to the account.
+4.5.4. Repeated, excessive, or bad-faith refund activity, or conduct that is inconsistent with normal consumer behavior or the payment platform’s policies, may result in account restrictions, suspension, or permanent termination without compensation.
+4.5.5. Nothing in this section limits the User’s rights under mandatory applicable consumer protection laws or the policies of the applicable app store platform.
 
 5. RULES OF CONDUCT AND MODERATION
 5.1. You undertake to use the Service in good faith, respecting other Users and the Administration. Any forms of toxic behavior, destructive actions, or creating a negative atmosphere are unacceptable.
