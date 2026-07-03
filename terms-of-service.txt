@@ -26,6 +26,14 @@ Last updated: February 18, 2026
 3.4.2. Account inactivity means the absence of login activity within the specified period.
 3.4.3. The Administration may, but is not obligated to, provide prior notice before deletion of an inactive account.
 3.4.4. Deleted accounts cannot be restored.
+3.5. Account Use Restrictions
+3.5.1. The User account is personal and may not be shared, transferred, sold, gifted, or otherwise made available to any third party under any circumstances.
+3.5.2. The User agrees not to access, use, or attempt to gain access to any account that does not belong to them.
+3.5.3. The User is solely responsible for all activities conducted through their account, regardless of whether such activities were authorized.
+3.6. Unauthorized Account Access
+3.6.1. Any unauthorized access to another User’s account, as well as providing access to one’s own account to third parties, is strictly prohibited.
+3.6.2. In the event of detection of such activity, the Administration reserves the right, at its sole discretion, to restrict, suspend, or permanently terminate access to any accounts involved, without prior notice and without compensation.
+3.6.3. The Administration determines the fact of such violations based on its internal systems and procedures.
 
 4. MONETIZATION AND PAYMENTS
 4.1. The Service uses a hybrid monetization model:
