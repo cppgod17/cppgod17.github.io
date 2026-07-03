@@ -22,7 +22,7 @@ Last updated: July 3, 2026
 3.2. You are solely responsible for maintaining the confidentiality of your account login information (username and password). All actions performed using your account are considered your own.
 3.3. You are obligated to immediately notify the Administration of any unauthorized access or use of your account.
 3.4. Inactive Accounts
-3.4.1. If a User account remains inactive for a continuous period exceeding two (2) months, the Administration reserves the right to delete such account, including all associated data, game progress, and Virtual Values.
+3.4.1. If a User account remains inactive for a continuous period exceeding three (3) to six (6) months, the Administration reserves the right to delete such account, including all associated data, game progress, and Virtual Values.
 3.4.2. Account inactivity means the absence of login activity within the specified period.
 3.4.3. The Administration may, but is not obligated to, provide prior notice before deletion of an inactive account.
 3.4.4. Deleted accounts cannot be restored.
@@ -40,7 +40,7 @@ Last updated: July 3, 2026
 4.1.1. In-App Purchases (IAP): You can purchase virtual currency, items, bonuses, subscriptions, and other virtual digital goods (collectively, "Virtual Values") using real money.
 4.1.2. Advertising: The App may display advertising content from third parties.
 4.2. Payments are processed through the Apple App Store and Google Play Store payment systems or other payment systems. Accordingly, payments, refunds, subscription management, and billing issues are governed by the terms of use and policies of these platforms. The Administration does not store or process your bank card details or other payment information.
-4.3. All purchases of Virtual Values ​​are final. Virtual Values ​​have no material value, are not your property, and are not exchangeable for real money, refundable, or reimbursable, unless otherwise expressly provided by app store rules or mandatory applicable laws.
+4.3. All purchases of Virtual Values ​​are final. Virtual Values have no real-world monetary value and do not constitute real-world property rights, and are not exchangeable for real money, refundable, or reimbursable, unless otherwise expressly provided by app store rules or mandatory applicable laws.
 4.4. The Administration reserves the right to change prices for Virtual Values, offer promotions, or modify the monetization model at any time.
 
 4.5. REFUNDS, CHARGEBACK AND REVERSAL VIRTUAL VALUES
@@ -67,7 +67,7 @@ Last updated: July 3, 2026
 5.2.12. Actively promoting, agitating, or engaging other users in political, religious, ethnic, or other heated social discussions unrelated to the gameplay.
 5.2.13. Spreading misinformation, fake news, or conspiracy theories that could cause panic or mass conflict within the community.
 5.2.14. Mass mailing of repetitive, meaningless messages (flooding), using caps lock, intrusive advertising, links to third-party resources, and multi-level marketing (MLM).
-5.2.15. Impersonating another user or an Administration employee, or creating fake accounts.
+5.2.15. Impersonating another user or an Administration employee, or creating accounts for abusive, fraudulent, or manipulative purposes.
 5.2.16. Any actions aimed at intentionally destabilizing the Service: organizing attacks, cooperative use of exploits, or disrupting game events.
 5.3. Moderation and Consequences:
 5.3.1. The Administration monitors the Service but is not obligated to pre-moderate all user content.
@@ -76,7 +76,7 @@ Last updated: July 3, 2026
 5.3.4. The Administration is not obligated to engage in a discussion about the fact of a violation or provide detailed evidence if this could compromise the moderation methods or the security of the Service.
 
 6. ACCESS RESTRICTION (BAN)
-6.1. The Administration reserves the exclusive right, at its sole discretion, without prior notice or explanation, to restrict, suspend, or completely terminate the User's access to the Service (in whole or in part) in the event of any violation of this Agreement.
+6.1. The Administration reserves the exclusive right, at its sole discretion, without prior notice or explanation, to restrict, suspend, or completely terminate the User's access to the Service (in whole or in part) in the event of any violation of this Agreement, including but not limited to violations of Sections 3 and 5.
 6.2. In particular, when restricting access for reasons related to security, fraud prevention, or the protection of internal moderation algorithms or technical systems, the Administration is not obligated to provide the User with any detailed evidence, logs, internal data, or other information.
 6.3. Access restriction in the form of a permanent ban entails the permanent loss of access to the account and the cancellation of all Virtual Values ​​without any monetary or other compensation.
 
@@ -105,3 +105,4 @@ Last updated: July 3, 2026
 10.2. If any provision of the Agreement is found invalid or unenforceable, the remaining provisions will remain in full force and effect.
 10.3. This Agreement constitutes the entire agreement between you and the Administration regarding the subject matter of the Agreement and supersedes all previous oral or written agreements.
 10.4. Administration contact information for legal notices and general inquiries: dreamdustgames@gmail.com.
+10.5. The Administration reserves the right to modify, suspend, or discontinue the Service (in whole or in part) at any time without prior notice. The User acknowledges that no compensation shall be provided in such cases.
