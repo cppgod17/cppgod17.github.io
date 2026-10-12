@@ -10,7 +10,9 @@ The terms used in this Privacy Policy have the same meanings as in our Terms and
 
 **Information Collection and Use**
 
-For a better experience, while using our Service, I may require you to provide us with certain personally identifiable information. The information that I request will be retained on your device and is not collected by me in any way.
+We collect and process information necessary to create and manage your account, operate the online game, and protect the Service. This may include account identifiers, device identifiers (including Android ID on Android and an app-generated identifier where applicable), IP address, device manufacturer and model, and technical information about the installed application, including its package identifier and signing certificate information.
+
+This information is transmitted to our servers and may be associated with your game account.
 
 The app does use third-party services that may collect information used to identify you.
 
@@ -35,9 +37,15 @@ Link to the privacy policy of third-party service providers used by the app
 *   [InMobi](https://www.inmobi.com/privacy-policy)
 *   [ChartBoost](https://www.chartboost.com/legal/privacy-policy/)
 
+**Account and Service Security**
+
+We use account, device, application, and gameplay activity information to protect accounts and the Service, investigate suspected unauthorized account access or transfers, and detect automated activity, modified game clients, cheating, spam, and other violations of our rules.
+
+Security checks may result in restrictions on game features or account access. For questions about these restrictions, please contact us at dreamdustgames@gmail.com.
+
 **Log Data**
 
-We want to inform you that whenever you use my Service, in a case of an error in the app We collect data and information (through third-party products) on your phone called Log Data. This Log Data may include information such as your device Internet Protocol (“IP”) address, device name, operating system version, the configuration of the app when utilizing my Service, the time and date of your use of the Service, and other statistics.
+We and our service providers may collect technical and diagnostic logs during registration, login, connection to game servers, gameplay, and application errors. These logs may include IP address, device model, operating system and application version, timestamps, diagnostic information, and activity relevant to operating and securing the Service.
 
 **Cookies**
 
@@ -75,6 +83,10 @@ Such activity may occur either within or outside the game client, if it is direc
 Details of internal investigations, including technical data and sources of information, are not disclosed.
 Sanctions are applied in strict accordance with the project rules and do not require notification of investigation details.
 
+**Account Deletion**
+
+To request deletion of your account and associated personal data, please follow our [account deletion instructions](https://docs.google.com/document/d/1kA2pjKq8oNOT54XuQT3d-oK4oUhbH-g2GJpwjKbm0Ek/edit?tab=t.0).
+
 **Children’s Privacy**
 
 These Services do not address anyone under the age of 13. We do not knowingly collect personally identifiable information from children under 13 years of age. In the case we discover that a child under 13 has provided me with personal information, We immediately delete this from our servers. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact me so that I will be able to do the necessary actions.
@@ -83,7 +95,7 @@ These Services do not address anyone under the age of 13. We do not knowingly co
 
 We may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. We will notify you of any changes by posting the new Privacy Policy on this page.
 
-This policy is effective as of 2023-12-15
+Last updated: 2026-10-12
 
 **Contact Us**
 
