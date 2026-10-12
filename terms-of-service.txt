@@ -1,7 +1,7 @@
 USER AGREEMENT (TERMS OF SERVICE)
 for The Cursed Dinosaur Isle
 
-Last updated: July 3, 2026
+Last updated: October 12, 2026
 
 1. ACCEPTANCE OF AGREEMENT
 1.1. This User Agreement (hereinafter referred to as the "Agreement") governs the relationship between NIMPHA LTD, registered at MONASTIRAKI COMPLEX, Flat 25, Naousis Paphos, 8047 Cyprus (hereinafter referred to as the "Administration," "We," or "Our"), and any individual (hereinafter referred to as the "User" or "You") who installs, accesses, registers, or uses the mobile application and related online services of The Cursed Dinosaur Isle (hereinafter referred to as the "Application," "Service," or "Game").
@@ -34,6 +34,8 @@ Last updated: July 3, 2026
 3.6.1. Any unauthorized access to another User’s account, as well as providing access to one’s own account to third parties, is strictly prohibited.
 3.6.2. In the event of detection of such activity, the Administration reserves the right, at its sole discretion, to restrict, suspend, or permanently terminate access to any accounts involved, without prior notice and without compensation.
 3.6.3. The Administration determines the fact of such violations based on its internal systems and procedures.
+3.7. Account Ownership
+3.7.1. All game accounts are part of the Service and remain under the ownership and control of the Administration. The User is granted a limited, personal, non-transferable, and revocable right to access and use their account in accordance with this Agreement. The User does not acquire ownership rights over the account itself, except for rights provided by applicable law.
 
 4. MONETIZATION AND PAYMENTS
 4.1. The Service uses a hybrid monetization model:
