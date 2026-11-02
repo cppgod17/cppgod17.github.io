@@ -1,7 +1,7 @@
 USER AGREEMENT (TERMS OF SERVICE)
 for The Cursed Dinosaur Isle
 
-Last updated: October 12, 2026
+Last updated: November 2, 2026
 
 1. ACCEPTANCE OF AGREEMENT
 1.1. This User Agreement (hereinafter referred to as the "Agreement") governs the relationship between NIMPHA LTD, registered at MONASTIRAKI COMPLEX, Flat 25, Naousis Paphos, 8047 Cyprus (hereinafter referred to as the "Administration," "We," or "Our"), and any individual (hereinafter referred to as the "User" or "You") who installs, accesses, registers, or uses the mobile application and related online services of The Cursed Dinosaur Isle (hereinafter referred to as the "Application," "Service," or "Game").
@@ -71,6 +71,7 @@ Last updated: October 12, 2026
 5.2.14. Mass mailing of repetitive, meaningless messages (flooding), using caps lock, intrusive advertising, links to third-party resources, and multi-level marketing (MLM).
 5.2.15. Impersonating another user or an Administration employee, or creating accounts for abusive, fraudulent, or manipulative purposes.
 5.2.16. Any actions aimed at intentionally destabilizing the Service: organizing attacks, cooperative use of exploits, or disrupting game events.
+5.2.17. Deliberately harassing official bloggers, streamers, or other content creators publicly recognized by the Administration as partners of the Game for the purpose of disrupting their livestreams, content recording, or participation in in-game events. Prohibited conduct includes using information obtained from a livestream to pursue and harass a creator (stream sniping), organizing coordinated harassment, and other deliberate actions intended to disrupt their content creation or event participation within the Game. Ordinary gameplay, including PvP conducted in accordance with the rules, does not by itself constitute a violation. Confirmed violations may result in temporary or permanent account suspension, taking into account the severity of the conduct and any repeated violations.
 5.3. Moderation and Consequences:
 5.3.1. The Administration monitors the Service but is not obligated to pre-moderate all user content.
 5.3.2. The Administration will determine whether a violation has occurred based on its internal criteria and evidence.
